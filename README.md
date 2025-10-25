@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mohamed El-Sayed Othman</h1>
+<h1 align="center">Hey 👋, I'm Mohamed Othman</h1>
 <h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 ---
@@ -77,16 +77,7 @@
 
 ---
 
+
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohamedm.elsayedothman@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MohamedEl-Sayed28" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<p align="center"> <a href="mailto:mohamedm.elsayedothman@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/MohamedEl-Sayed28"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/> </a> <a href="https://learnsimply.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-LearnSimply.com-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=MohamedEl-Sayed28&style=for-the-badge&color=orange" alt="Profile Views"/> </p
