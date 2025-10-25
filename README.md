@@ -77,10 +77,22 @@
 
 ---
 
+## 💬 Fun Facts / Hobbies
+
+- ⚡ I enjoy testing new automation and monitoring tools.  
+- 📚 I love reading about **cloud architecture**, **scalability**, and **DevOps best practices**.  
+- 🧠 I spend free time improving scripts and automating boring tasks.  
+- 🤝 I enjoy mentoring and helping others get started with DevOps and cloud technologies.  
+- 🌍 Always curious about open-source projects and community-driven tools.  
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:mohamedm.elsayedothman@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://github.com/MohamedEl-Sayed28"><img src="https://img.icons8.com/ios-glyphs/32/ffffff/github.png" alt="github"/></a>
   <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/MohamedEl-Sayed28"><img src="https://img.icons8.com/ios-glyphs/32/ffffff/github.png" alt="github"/></a>
+  <a href="https://hub.docker.com/u/mohamedmahmoud"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
+  <a href="https://dev.to/mohamedmahmoud"><img src="https://img.icons8.com/windows/32/000000/dev.png" alt="devto"/></a>
 </p>
