@@ -1,5 +1,7 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Linux System & DevOps Engineer | Cloud & Automation Enthusiast | Infrastructure as Code Advocate</h3>
+<h1 align="center">Hey 👋, I'm Mohamed El-Sayed</h1>
+<h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast</h3>
+
+<img align="right" alt="DevOps Animation" width="400" src="https://i.imgur.com/8Km9tLL.gif">
 
 ---
 
