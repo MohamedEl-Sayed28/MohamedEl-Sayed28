@@ -55,16 +55,16 @@
 ## 📈 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedEl-Sayed28&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEl-Sayed28&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedEl-Sayed28&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEl-Sayed28&layout=compact&theme=github_dark&hide_border=true" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedEl-Sayed28&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=MohamedEl-Sayed28&theme=github-dark-blue&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEl-Sayed28&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedEl-Sayed28&theme=darkhub&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
