@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="mailto:mohamedm.elsayedothman@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://hub.docker.com/u/mohamedmahmoud" target="_blank">
