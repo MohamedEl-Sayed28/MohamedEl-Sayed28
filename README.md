@@ -83,19 +83,22 @@
 - 📚 I love reading about **cloud architecture**, **scalability**, and **DevOps best practices**.  
 - 🧠 I spend free time improving scripts and automating boring tasks.  
 - 🤝 I enjoy mentoring and helping others get started with DevOps and cloud technologies.  
-- 🌍 Always curious about open-source projects and community-driven tools.  
+- 🌍 Always curious about open-source projects and community-driven tools.
+- ☕ Coffee + Terminal = Productivity 😄
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:mohamedm.elsayedothman@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://hub.docker.com/u/mohamedmahmoud" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/MohamedEl-Sayed28" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedEl-Sayed28&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEl-Sayed28&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedEl-Sayed28&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedEl-Sayed28&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
