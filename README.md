@@ -1,11 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mohamed El-Sayed Othman</h1>
 <h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
-<img align="right" alt="DevOps Animation"
-     width="220"
-     src="https://raw.githubusercontent.com/MohamedEl-Sayed28/MohamedEl-Sayed28/main/devops.gif"
-     style="border-radius:10px; margin-left:20px; margin-bottom:10px;">
-
 ---
 
 ## 👨‍💻 About Me
