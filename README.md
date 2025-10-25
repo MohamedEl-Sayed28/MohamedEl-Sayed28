@@ -7,6 +7,7 @@
 <img src="https://github.com/MohamedEl-Sayed28/MohamedEl-Sayed28/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="60%"/><br> 
 <img src="https://github.com/MohamedEl-Sayed28/MohamedEl-Sayed28/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="45%"/> <br>
 
+![Totals Hits](https://komarev.com/ghpvc/?username=MohamedEl-Sayed28&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
 
 ## 👨‍💻 About Me
@@ -86,4 +87,4 @@
 
 ## 📫 Connect with Me
 
-<p align="center"> <a href="mailto:mohamedm.elsayedothman@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/MohamedEl-Sayed28"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/> </a> <a href="https://learnsimply.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-LearnSimply.com-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=MohamedEl-Sayed28&style=for-the-badge&color=orange" alt="Profile Views"/> </p
+<p align="center"> <a href="mailto:mohamedm.elsayedothman@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/MohamedEl-Sayed28"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/> </a> <a href="https://learnsimply.com" target="_blank"> </a> </p> <p align="center"> </p
