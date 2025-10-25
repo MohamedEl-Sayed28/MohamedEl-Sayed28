@@ -4,8 +4,8 @@
 ---
 <div align="center" width="50">
   
-<img src="https://github.com/MohamedEl-Sayed28/MohamedEl-Sayed28/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="70%"/><br> 
-<img src="https://github.com/MohamedEl-Sayed28/MohamedEl-Sayed28/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/MohamedEl-Sayed28/MohamedEl-Sayed28/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="60%"/><br> 
+<img src="https://github.com/MohamedEl-Sayed28/MohamedEl-Sayed28/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="45%"/> <br>
 
 </div>
 
