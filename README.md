@@ -81,6 +81,6 @@
 
 <p align="center">
   <a href="mailto:mohamedm.elsayedothman@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/MohamedEl-Sayed28"><img src="https://img.icons8.com/ios-glyphs/32/ffffff/github.png" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 </p>
