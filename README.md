@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mohamed El-Sayed</h1>
+<h1 align="center">Hey 👋, I'm Mohamed El-Sayed Othman</h1>
 <h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 <img align="right" alt="DevOps Animation"
