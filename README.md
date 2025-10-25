@@ -3,7 +3,7 @@
 
 <img align="right" alt="DevOps Animation"
      width="360"
-     src="https://raw.githubusercontent.com/MohamedEl-Sayed28/MohamedEl-Sayed28/main/devops.gif"
+     src="https://raw.githubusercontent.com/MohamedEl-Sayed28/MohamedEl-Sayed28/devops.gif"
      style="border-radius:10px; margin-left:20px;">
 
 ---
