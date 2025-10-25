@@ -90,10 +90,12 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:mohamedm.elsayedothman@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://github.com/MohamedEl-Sayed28" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-  <a href="https://hub.docker.com/u/mohamedmahmoud"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
+  <a href="mailto:mohamedm.elsayedothman@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://hub.docker.com/u/mohamedmahmoud" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/MohamedEl-Sayed28" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
