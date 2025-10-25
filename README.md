@@ -16,20 +16,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+💡 Always exploring new DevOps tools to optimize automation pipelines.
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| 🐧 OS & Servers | Linux (Ubuntu, CentOS), ESXi, Proxmox, OPNsense |
-| ☁️ Cloud | AWS (EC2, S3, IAM, Lambda), Azure |
-| 🐳 Containers | Docker, Kubernetes |
-| ⚙️ Automation | **Ansible** (core for all automation), Terraform |
-| 🧰 CI/CD | Jenkins, GitHub Actions |
-| 🌐 Networking & Reverse Proxy | Traefik, Teleport |
-| 📈 Monitoring | Zabbix, Prometheus, Grafana |
-| 💾 Databases | MySQL, PostgreSQL |
-| 🐍 Scripting | Python, Bash |
-| 🔐 Security | Nginx, SSL, VPNs, ZeroTier |
+<table> <tr> <td>🐧 <b>OS & Servers</b></td> <td> <img src="https://skillicons.dev/icons?i=linux" height="30"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/> <img src="https://img.shields.io/badge/ESXi-1DAF5E?style=flat-square&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/> <img src="https://img.shields.io/badge/OPNsense-F58025?style=flat-square&logo=openbsd&logoColor=white"/> </td> </tr> <tr> <td>☁️ <b>Cloud</b></td> <td> <img src="https://skillicons.dev/icons?i=aws,azure" height="30"/> </td> </tr> <tr> <td>🐳 <b>Containers</b></td> <td> <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="30"/> </td> </tr> <tr> <td>⚙️ <b>Automation</b></td> <td> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> </td> </tr> <tr> <td>🧰 <b>CI/CD</b></td> <td> <img src="https://skillicons.dev/icons?i=jenkins,githubactions" height="30"/> </td> </tr> <tr> <td>🌐 <b>Networking & Proxy</b></td> <td> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white"/> <img src="https://img.shields.io/badge/Teleport-512BD4?style=flat-square&logo=teleport&logoColor=white"/> </td> </tr> <tr> <td>📈 <b>Monitoring</b></td> <td> <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> </td> </tr> <tr> <td>💾 <b>Databases</b></td> <td> <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="30"/> </td> </tr> <tr> <td>🐍 <b>Scripting</b></td> <td> <img src="https://skillicons.dev/icons?i=python,bash" height="30"/> </td> </tr> <tr> <td>💻 <b>Development Tools</b></td> <td> <img src="https://skillicons.dev/icons?i=vscode,git,html,css,cpp" height="30"/> </td> </tr> <tr> <td>🔐 <b>Security</b></td> <td> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/SSL-FFD43B?style=flat-square&logo=letsencrypt&logoColor=black"/> <img src="https://img.shields.io/badge/VPNs-0078D7?style=flat-square&logo=wireguard&logoColor=white"/> <img src="https://img.shields.io/badge/ZeroTier-FF9900?style=flat-square&logo=zerotier&logoColor=black"/> </td> </tr> </table>
 
 ---
 
