@@ -1,52 +1,70 @@
 ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Data Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
+<h3 align="center">Linux System & DevOps Engineer | Cloud & Automation Enthusiast | Infrastructure as Code Advocate</h3>
 
-## I little bit about me
+## 👨‍💻 About Me
 
-🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
-🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
-💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
-✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
-
----
-
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+💼 &nbsp;I’m a **Linux System & DevOps Engineer** with strong experience in automation, cloud infrastructure, and system scalability.\
+🐧 &nbsp;I specialize in **Ansible**, using it to automate almost everything — from server provisioning to application deployment.\
+☁️ &nbsp;Hands-on with **AWS**, **ESXi**, **Teleport**, and **Traefik** for secure access, virtualization, and reverse proxy management.\
+🚀 &nbsp;Certified **CKA (Certified Kubernetes Administrator)** and **AWS Cloud Practitioner (CLF-C02)**.\
+🌱 &nbsp;Currently deepening my knowledge in **AWS Solution Architect**, **Azure AZ-900 & AZ-104**, and **Advanced Python for Automation**.\
+🧠 &nbsp;Passionate about building reliable, automated, and scalable systems using open-source tools.\
+✉️ &nbsp;Reach me at **mohamedm.elsayedothman@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/mohamed-el-sayed-othman/).\
+📂 &nbsp;Explore my work on [GitHub](https://github.com/MohamedEl-Sayed28).
 
 ---
-
-## Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
-- [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
-- [How To Automate Jira And Confluence Using Python](https://blog.mphomphego.co.za/blog/2024/05/22/How-to-automate-Jira-and-Confluence-using-Python.html)
-- [How To Connect To AWS Athena Using DBeaver Community Edition Via AWS SSO](https://blog.mphomphego.co.za/blog/2023/12/27/How-to-connect-to-AWS-Athena-using-DBeaver-Community-Edition-via-AWS-SSO.html)
-- [How To Verify Data Quality On Tables Landed On AWS Data Lake And Data Warehouse](https://blog.mphomphego.co.za/blog/2023/11/11/How-to-Verify-Data-Quality-on-Tables-Landed-on-AWS-Data-Lake-and-Data-Warehouse.html)
-- [How To Efficiently Extract Tables From MSSQL Server To A Data Lake](https://blog.mphomphego.co.za/blog/2023/08/02/How-to-Efficiently-Extract-Tables-from-MSSQL-Server-to-a-Data-Lake.html)
-- [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 2&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-2.html)
-- [How I Uninstalled YouTube From Android TV](https://blog.mphomphego.co.za/blog/2022/04/11/How-I-uninstalled-YouTube-from-Android-TV.html)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Links
 
 <p align="center">
-  <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
-  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"/><br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg"/>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"/>
+</p>
+
+> 🧩 *Note:* These metrics reflect my GitHub activity, not skill level.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| 🐧 OS & Servers | Linux (Ubuntu, CentOS), OPNsense, Proxmox, ESXi |
+| ☁️ Cloud | AWS (EC2, S3, IAM, Lambda), Azure |
+| 🧩 Access & Networking | Teleport, Traefik, ZeroTier |
+| 🐳 Containers | Docker, Kubernetes |
+| ⚙️ Automation | **Ansible (for everything)**, Terraform |
+| 🧰 CI/CD | Jenkins, GitHub Actions |
+| 📈 Monitoring | Zabbix, Prometheus, Grafana |
+| 💾 Databases | MySQL, PostgreSQL, ReportServer |
+| 🐍 Scripting | Python, Bash |
+| 🔐 Security | Nginx, SSL/TLS, VPNs, Firewalls |
+
+---
+
+## 📘 Projects
+
+- 🚀 **ReportServer Automated Setup using Ansible**  
+  Automated full deployment of ReportServer (BI platform) including database setup, configuration, and service management using Ansible.
+
+- 🧱 **Infrastructure Automation with Ansible**  
+  Used Ansible to manage system configuration, deploy containers, manage users, and orchestrate updates across multiple environments.
+
+- 🔐 **Teleport & Traefik Integration Lab**  
+  Configured secure SSH and web access with Teleport and Traefik for a multi-environment DevOps lab.
+
+- 🌍 **Site-to-Site VPN using OPNsense**  
+  Built and tested site-to-site VPN connections between virtual networks for secure cross-site communication.
+
+- 🧠 **Monitoring Stack (Zabbix + Prometheus + Grafana)**  
+  Automated setup and dashboard configuration for multi-server monitoring and alerting.
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:mohamedm.elsayedothman@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-el-sayed-othman/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/MohamedEl-Sayed28"><img src="https://img.icons8.com/color/32/000000/github.png" alt="github"/></a>
+  <a href="https://hub.docker.com/u/mohamedmahmoud"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
 </p>
